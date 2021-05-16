@@ -1,0 +1,60 @@
+[url] - [code-200] - https://www.paypal.com/signin?returnUri=https%3A%2F%2Fbusiness.paypal.com%2Fmerchantdata
+[form] - https://www.paypal.com/signin?returnUri=https%3A%2F%2Fbusiness.paypal.com%2Fmerchantdata
+[javascript] - https://www.paypalobjects.com/pa/js/pa.js
+[javascript] - https://www.paypalobjects.com/web/res/b38/a8ae8bbdaeb72656bac0daa06a144/js/lib/modernizr-2.6.1.js
+[javascript] - https://www.paypalobjects.com/web/res/b38/a8ae8bbdaeb72656bac0daa06a144/js/authchallenge.js
+[javascript] - https://www.paypalobjects.com/web/res/b38/a8ae8bbdaeb72656bac0daa06a144/js/lib/require.js
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - https://business.paypal.com/text/javascript
+[linkfinder] - https://business.paypal.com/auth/logclientdata
+[linkfinder] - https://business.paypal.com/auth/refreshinlinecaptcha
+[linkfinder] - https://business.paypal.com/application/json
+[linkfinder] - https://business.paypal.com/application/x-www-form-urlencoded
+[linkfinder] - https://business.paypal.com/text/javascript
+[linkfinder] - https://www.recaptcha.net/recaptcha/enterprise.js?onload=recaptchaEnterpriseCallback&render=explicit&hl=
+[linkfinder] - https://www.recaptcha.net/recaptcha/api.js?onload=recaptchaCallback&render=explicit&hl=
+[linkfinder] - https://www.paypalobjects.com
+[linkfinder] - https://www.paypalobjects.com/pa/mi/3p/gtag/gtag.js
+[linkfinder] - https://www.paypal-mktg.com/pardot/pardot.html
+[linkfinder] - https://business.paypal.com/pa/3pjs/tl/5.6.1
+[linkfinder] - https://www.paypalobjects.com/pa/3pjs/qualtrics/1.46.0/
+[linkfinder] - https://t.paypal.com/ts
+[linkfinder] - https://t.paypal.com/ts
+[linkfinder] - https://business.paypal.com/application/x-director
+[linkfinder] - https://business.paypal.com/application/x-mplayer2
+[linkfinder] - https://business.paypal.com/application/pdf
+[linkfinder] - https://business.paypal.com/video/quicktime
+[linkfinder] - https://business.paypal.com/audio/x-pn-realaudio-plugin
+[linkfinder] - https://business.paypal.com/application/x-silverlight
+[linkfinder] - https://business.paypal.com/application/x-shockwave-flash
+[linkfinder] - https://business.paypal.com/ts?
+[linkfinder] - https://business.paypal.com/
+[linkfinder] - https://business.paypal.com/patleaf.js
+[linkfinder] - https://business.paypal.com/patlcfg.js
+[linkfinder] - https://business.paypal.com/pa/mi/3p/eloqua.js
+[linkfinder] - https://www.paypalobjects.com/pa/mi/miconfig.js
+[linkfinder] - https://business.paypal.com/OrchestratorMain.js
+[linkfinder] - https://business.paypal.com/application/json
+[linkfinder] - https://c.paypal.com/da/r/fb.js
+[url] - [code-200] - https://c.paypal.com/da/r/fb.js
+[url] - [code-200] - https://t.paypal.com/ts
+[url] - [code-421] - https://business.paypal.com/text/javascript
+[url] - [code-421] - https://business.paypal.com/auth/logclientdata
+[url] - [code-421] - https://business.paypal.com/application/json
+[url] - [code-421] - https://business.paypal.com/pa/3pjs/tl/5.6.1
+[url] - [code-421] - https://business.paypal.com/application/x-mplayer2
+[url] - [code-421] - https://business.paypal.com/auth/refreshinlinecaptcha
+[url] - [code-421] - https://business.paypal.com/patleaf.js
+[url] - [code-421] - https://business.paypal.com/application/pdf
+[url] - [code-421] - https://business.paypal.com/application/x-director
+[url] - [code-421] - https://business.paypal.com/video/quicktime
+[url] - [code-421] - https://business.paypal.com/application/x-www-form-urlencoded
+[url] - [code-421] - https://business.paypal.com/pa/mi/3p/eloqua.js
+[url] - [code-421] - https://business.paypal.com/OrchestratorMain.js
+[url] - [code-421] - https://business.paypal.com/application/x-silverlight
+[url] - [code-421] - https://business.paypal.com/ts?
+[url] - [code-421] - https://business.paypal.com/patlcfg.js
+[url] - [code-421] - https://business.paypal.com/application/x-shockwave-flash
+[url] - [code-421] - https://business.paypal.com/audio/x-pn-realaudio-plugin
+[url] - [code-200] - https://www.paypal.com/signin?returnUri=https%3A%2F%2Fbusiness.paypal.com%2Fmerchantdata
+[url] - [code-403] - https://www.paypal.com/signin?returnUri=https%3A%2F%2Fbusiness.paypal.com%2Fmerchantdata

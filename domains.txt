@@ -1,0 +1,11 @@
+paypal.com
+braintreegateway.com
+paydiant.com
+xoom.com
+braintreepayments.com
+braintree.tools
+braintree-api.com
+paypalcorp.com
+paypal.cn
+hyperwallet.com
+paylution.com

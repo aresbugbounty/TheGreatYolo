@@ -1,0 +1,3 @@
+https://api-aa-3t.sandbox.paypal.com
+https://api-aa.sandbox.glb.paypal.com
+https://api-aa.paypal.com
